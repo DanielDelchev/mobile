@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\nooby\\AndroidStudioProjects\\MyfirstApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\nooby\\.android\\build-cache\\bbb429399551c4e9f68e267fc03b21b900c7daa2\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nooby\\AndroidStudioProjects\\MyfirstApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\nooby\\.android\\build-cache\\bbb429399551c4e9f68e267fc03b21b900c7daa2\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nooby\\AndroidStudioProjects\\MyfirstApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\nooby\\.android\\build-cache\\bbb429399551c4e9f68e267fc03b21b900c7daa2\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nooby\\AndroidStudioProjects\\MyfirstApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\nooby\\.android\\build-cache\\bbb429399551c4e9f68e267fc03b21b900c7daa2\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
